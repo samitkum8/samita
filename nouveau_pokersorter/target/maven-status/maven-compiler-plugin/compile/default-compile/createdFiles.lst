@@ -1,0 +1,15 @@
+service/PokerCombinationService.class
+model/Card.class
+comparator/SortCombinationByRank.class
+enumtype/CardSuit.class
+exception/PokerException.class
+model/HandCombinations.class
+enumtype/CardValue.class
+service/PlayerHandService.class
+app/PokerSorter.class
+model/Hand.class
+enumtype/CardCombination.class
+exception/IllegalFileTypeException.class
+service/GameService.class
+model/Combination.class
+comparator/SortCardByValue.class
